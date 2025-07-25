@@ -1,4 +1,4 @@
 # practice-git
 My First Git Repository.
-<br><hr>
+<br>
 Author - Raut Atharva
